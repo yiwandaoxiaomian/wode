@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libmycat.so -o libmycat.so CMakeFiles/mycat.dir/src/cat.cpp.o 

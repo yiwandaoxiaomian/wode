@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/jialimeng/duo_package_expersence/install/sysmo_msgs/include/**",
+        "/home/jialimeng/duo_package_expersence/install/kacanopen/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/jialimeng/duo_package_expersence/src/cpp01_topic/core/include/**",
+        "/home/jialimeng/duo_package_expersence/src/cpp01_topic/master/include/**",
+        "/home/jialimeng/duo_package_expersence/src/cpp02_topic/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

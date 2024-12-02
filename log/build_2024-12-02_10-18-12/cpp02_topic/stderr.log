@@ -1,0 +1,7 @@
+/usr/bin/ld: CMakeFiles/helloworld.dir/src/helloworld.cpp.o: in function `main':
+/home/jialimeng/duo_package_expersence/src/cpp02_topic/src/helloworld.cpp:11: undefined reference to `Dog::dog_bark()'
+/usr/bin/ld: /home/jialimeng/duo_package_expersence/src/cpp02_topic/src/helloworld.cpp:13: undefined reference to `Cat::cat_bark()'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/helloworld.dir/build.make:159: helloworld] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/helloworld.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

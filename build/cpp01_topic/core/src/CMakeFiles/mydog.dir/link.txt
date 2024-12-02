@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libmydog.so -o libmydog.so CMakeFiles/mydog.dir/dog.cpp.o 

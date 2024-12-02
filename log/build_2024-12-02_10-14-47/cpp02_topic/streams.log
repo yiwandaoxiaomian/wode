@@ -1,0 +1,22 @@
+[0.004s] Invoking command in '/home/jialimeng/duo_package_expersence/build/cpp02_topic': AMENT_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:/opt/ros/humble /usr/bin/cmake --build /home/jialimeng/duo_package_expersence/build/cpp02_topic -- -j22 -l22
+[0.032s] [100%] Built target helloworld
+[0.038s] Invoked command in '/home/jialimeng/duo_package_expersence/build/cpp02_topic' returned '0': AMENT_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:/opt/ros/humble /usr/bin/cmake --build /home/jialimeng/duo_package_expersence/build/cpp02_topic -- -j22 -l22
+[0.051s] Invoking command in '/home/jialimeng/duo_package_expersence/build/cpp02_topic': AMENT_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:/opt/ros/humble /usr/bin/cmake --install /home/jialimeng/duo_package_expersence/build/cpp02_topic
+[0.056s] -- Install configuration: "Debug"
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/lib/cpp02_topic/helloworld
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/ament_index/resource_index/package_run_dependencies/cpp02_topic
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/ament_index/resource_index/parent_prefix_path/cpp02_topic
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/environment/ament_prefix_path.sh
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/environment/ament_prefix_path.dsv
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/environment/path.sh
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/environment/path.dsv
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/local_setup.bash
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/local_setup.sh
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/local_setup.zsh
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/local_setup.dsv
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/package.dsv
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/ament_index/resource_index/packages/cpp02_topic
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/cmake/cpp02_topicConfig.cmake
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/cmake/cpp02_topicConfig-version.cmake
+[0.056s] -- Up-to-date: /home/jialimeng/duo_package_expersence/install/cpp02_topic/share/cpp02_topic/package.xml
+[0.057s] Invoked command in '/home/jialimeng/duo_package_expersence/build/cpp02_topic' returned '0': AMENT_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:/opt/ros/humble /usr/bin/cmake --install /home/jialimeng/duo_package_expersence/build/cpp02_topic

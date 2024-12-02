@@ -1,0 +1,9 @@
+[0.004s] Invoking command in '/home/jialimeng/duo_package_expersence/build/cpp02_topic': AMENT_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:/opt/ros/humble /usr/bin/cmake --build /home/jialimeng/duo_package_expersence/build/cpp02_topic -- -j22 -l22
+[0.036s] [ 50%] [32m[1mLinking CXX executable helloworld[0m
+[0.044s] /usr/bin/ld: cannot find -lmycat: No such file or directory
+[0.044s] /usr/bin/ld: cannot find -lmydog: No such file or directory
+[0.060s] collect2: error: ld returned 1 exit status
+[0.061s] gmake[2]: *** [CMakeFiles/helloworld.dir/build.make:159: helloworld] Error 1
+[0.061s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/helloworld.dir/all] Error 2
+[0.061s] gmake: *** [Makefile:146: all] Error 2
+[0.062s] Invoked command in '/home/jialimeng/duo_package_expersence/build/cpp02_topic' returned '2': AMENT_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/jialimeng/duo_package_expersence/install/cpp01_topic:/opt/ros/humble /usr/bin/cmake --build /home/jialimeng/duo_package_expersence/build/cpp02_topic -- -j22 -l22
